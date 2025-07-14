@@ -18,10 +18,6 @@ Tech Stack:
 - PyPDF2 (PDF text extraction)
 - uuid / random (Logic Qn generation)
 
-Installation:
-$ git clone https://github.com/your-username/smart-assistant.git
-$ cd smart-assistant
-$ pip install -r requirements.txt
 
 Run:
 $ code.py
